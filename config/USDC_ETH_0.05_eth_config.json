@@ -1,0 +1,12 @@
+{
+    "pool_id": "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640",
+    "chain": "ethereum",
+    "token0": "USDC",
+    "token1": "ETH",
+    "decimal_0": 6,
+    "decimal_1": 18,
+    "tickspacing": 10,
+    "base_symbol": "1",
+    "quote_symbol": "0",
+    "fee_tier": 0.0005
+}

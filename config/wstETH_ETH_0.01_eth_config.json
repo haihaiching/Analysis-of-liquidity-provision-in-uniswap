@@ -1,0 +1,12 @@
+{
+    "pool_id": "0x109830a1AAaD605BbF02a9dFA7B0B92EC2FB7dAa",
+    "chain": "ethereum",
+    "token0": "wstETH",
+    "token1": "ETH",
+    "decimal_0": 18,
+    "decimal_1": 18,
+    "tickspacing": 1,
+    "base_symbol": "1",
+    "quote_symbol": "0",
+    "fee_tier": 0.0001
+}
