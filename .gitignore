@@ -1,0 +1,9 @@
+data/*
+!data/.gitkeep
+data_feature/*
+!data_feature/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+old code/
+main_origin.ipynb
+clustering_methods.py
